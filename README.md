@@ -9,7 +9,7 @@
 
 ## TL;DR
 
-This template was originally created by Soumyajit and repurposed to reflect my skills and hobbies. Please checkout[Soumyajit4419]repot to create your own!(https://github.com/soumyajit4419/Portfolio). Thanks!
+This template was originally created by Soumyajit and repurposed to reflect my skills and hobbies. Please checkout[Soumyajit4419]repo to create your own!(https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
