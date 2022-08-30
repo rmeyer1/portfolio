@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             I am a Software Devleopment Engineer in Test
+              I am a Software Devleopment Engineer in Test
               <br />
               <br />I am fluent in classics like
               <i>
@@ -29,11 +29,9 @@ function Home2() {
               <br />
               My field of Interest is developing&nbsp;
               <i>
-                <b className="purple">Test automation frameworks </b> and
-                using technology to{" "}
-                <b className="purple">
-                  build products and improve processes
-                </b>
+                <b className="purple">Test automation frameworks </b> and using
+                technology to{" "}
+                <b className="purple">build products and improve processes</b>
               </i>
               <br />
               <br />
@@ -53,7 +51,18 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" style={{ position: "relative", bottom: "80px", right: "45px", height: "70%", width: "70%" }}/>
+              <img
+								src={myImg}
+								className="img-fluid"
+								alt="avatar"
+								style={{
+									position: 'relative',
+									bottom: '80px',
+									right: '45px',
+									height: '70%',
+									width: '70%',
+								}}
+							/>
             </Tilt>
           </Col>
         </Row>

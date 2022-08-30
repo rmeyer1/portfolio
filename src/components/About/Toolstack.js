@@ -17,7 +17,7 @@ function Toolstack() {
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman/>
+        <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiWindows />
